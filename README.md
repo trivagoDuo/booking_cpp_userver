@@ -91,7 +91,7 @@ Makefile contains typicaly useful targets for development:
 Edit `Makefile.local` to change the default configuration and build options.
 
 ## License
-GNU General Public License v3.0
+[GNU General Public License v3.0](./LICENSE)
 
 Permissions of this strong copyleft license are conditioned on making available complete source code of
 licensed works and modifications, which include larger works using a licensed work, under the same license.
