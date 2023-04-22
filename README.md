@@ -1,4 +1,4 @@
-# booking_cpp_userver
+# booking_cpp_userver <img src="./frontend/public/Logo.png" align='right' width="30%">
 
 Hotel booking service like Trivago on C++ using framework "Userver" and next.js with Postgresql
 
