@@ -1,4 +1,4 @@
-# booking_cpp_userver <img src="./frontend/public/Logo.png" align='right' width="30%">
+# booking_cpp <img src="./frontend/public/Logo.png" align='right' width="30%">
 [The readme is available in English here](./README.md)
 
 Сервис бронирования отелей, комнат и частных домов по типу booking.com, trivago и др. С личными аккаунтами для покупателя, продавца и администраторов платформы, с различными вариантами расчета (как при заселении, так и онлайн)
