@@ -1,4 +1,4 @@
-# booking_cpp_userver <img src="./frontend/public/Logo.png" align='right' width="30%">
+# booking_cpp <img src="./frontend/public/Logo.png" align='right' width="30%">
 [Readme на русском доступно тут](./README_RU.md)
 
 Booking service for hotels, rooms and private homes like booking.com, trivago, etc. With
